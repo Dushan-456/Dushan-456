@@ -1,7 +1,19 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dushan!;" />
+  <div align="center"> 
+  <a href="mailto:navodyadushan123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="http://www.linkedin.com/in/navodya-dushan-19348a2a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://dushan.techlabsoftwaresolution.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+</h1><h3 align="center">Passionate Software Engineering Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dushan-456&label=Profile%20views&color=0e75b6&style=flat" alt="Dushan-456" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -9,13 +21,13 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **BSE - Open University of Sri Lanka**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, JavaScript, VueJS, Python and Wordpress**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **navodyadushan123@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Dush**
 
 </td>
 <td width="50%" align="center">
