@@ -77,7 +77,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="http://www.linkedin.com/in/navodya-dushan-19348a2a8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://dushan.techlabsoftwaresolution.com/" target="blank"><img align="center" src="https://dushan.techlabsoftwaresolution.com/wp-content/uploads/2024/08/cropped-dush1circle.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://api.whatsapp.com/send?phone=94719675669" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/_____d_u_s_h_a_n_____/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://dushan.techlabsoftwaresolution.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://www.facebook.com/navodya.dushan" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yGcWL8copNNQ&format=png&color=000000" alt="discord" height="50" width="50" /></a>
