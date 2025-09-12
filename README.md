@@ -21,7 +21,7 @@
   
 - 🌱 I’m currently learning **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🧑‍🎓 I’m an Undergraduate at **BSE - Open University of Sri Lanka**
+- 🧑‍🎓 I’m an Undergraduate at **Bachelor of Software Engineering (Hons) - Open University of Sri Lanka**
 
 - 💬 Ask me about **Java, JavaScript, VueJS, Python and Wordpress**
 
