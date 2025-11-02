@@ -19,7 +19,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **AWS, React, React Native, Nodejs, MongoDB**
+- 🌱 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
 - 🧑‍🎓 I’m an Undergraduate at **Bachelor of Software Engineering (Hons) - Open University of Sri Lanka**
 
