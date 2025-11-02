@@ -23,7 +23,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Bachelor of Software Engineering (Hons) - Open University of Sri Lanka**
 
-- 💬 Ask me about **Java, JavaScript, VueJS, Python and Wordpress**
+- 💬 Ask me about **Java, JavaScript, React, React Native, Nodejs, MongoDB, Python and Wordpress**
 
 - 📫 How to reach me **navodyadushan123@gmail.com**
   
